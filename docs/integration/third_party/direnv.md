@@ -34,7 +34,7 @@ python not found
 ```
 
 While `direnv` comes with [hooks for the common shells](https://direnv.net/docs/hook.html),
-these hooks into the shell should not be relied on when using and IDE.
+these hooks into the shell should not be relied on when using an IDE.
 
 Here you can see how to set up `direnv` for your favorite editor:
 
